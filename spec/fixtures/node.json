@@ -1,0 +1,8 @@
+{
+  "openssh": {
+    "server": {
+      "password_authentication": "no",
+      "port": 2222
+    }
+  }
+}
